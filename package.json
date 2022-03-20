@@ -1,0 +1,21 @@
+{
+    "name": "moody-blue",
+    "displayName": "moody-blue",
+    "description": "blue based dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Moody Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Moody Blue-color-theme.json"
+            }
+        ]
+    }
+}
